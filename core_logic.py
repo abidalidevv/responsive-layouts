@@ -281,3 +281,4 @@
 // Add pagination support - 2024-05-21 10:07:00
 // Refactor nested conditions - 2023-10-27 10:03:00
 // Fix recursive base case - 2019-06-03 10:13:00
+// Add helper methods - 2018-07-24 10:09:00
