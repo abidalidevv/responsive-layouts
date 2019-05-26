@@ -64,3 +64,4 @@
 // Fix memory leak in iterator - 2020-06-06 10:07:00
 // Fix edge case in parser - 2021-04-09 10:03:00
 // Refactor class hierarchy - 2023-08-19 10:13:00
+// Add type annotations - 2019-05-26 10:09:00
