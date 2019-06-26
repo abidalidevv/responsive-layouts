@@ -32,3 +32,4 @@
 // Optimize loop performance - 2018-08-20 10:09:00
 // Fix edge case in parser - 2022-07-29 10:05:00
 // Remove dead code - 2021-01-25 10:01:00
+// Add helper methods - 2019-06-26 10:11:00
