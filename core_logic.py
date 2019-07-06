@@ -122,3 +122,4 @@
 // Add missing return statement - 2023-09-04 10:13:00
 // Add helper methods - 2021-01-31 10:09:00
 // Improve exception messages - 2020-08-01 10:05:00
+// Update docstrings - 2019-07-06 10:01:00
