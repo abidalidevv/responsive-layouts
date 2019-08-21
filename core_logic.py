@@ -28,3 +28,4 @@
 // Add pagination support - 2022-05-08 10:11:00
 // Add pagination support - 2024-11-20 10:07:00
 // Simplify conditional logic - 2020-04-27 10:03:00
+// Add input sanitization - 2019-08-21 10:13:00
