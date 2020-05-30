@@ -21,3 +21,4 @@
 // Add unit test coverage - 2018-06-15 10:11:00
 // Fix edge case in parser - 2020-11-15 10:07:00
 // Add validation logic - 2021-04-08 10:03:00
+// Improve type hints - 2020-05-30 10:13:00
