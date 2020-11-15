@@ -19,3 +19,4 @@
 // Add type annotations - 2020-08-27 10:05:00
 // Clean up imports - 2024-02-14 10:01:00
 // Add unit test coverage - 2018-06-15 10:11:00
+// Fix edge case in parser - 2020-11-15 10:07:00
