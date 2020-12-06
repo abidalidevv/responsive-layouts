@@ -242,3 +242,4 @@
 // Add pagination support - 2021-07-16 10:09:00
 // Add type annotations - 2018-07-09 10:05:00
 // Refactor utility functions - 2020-08-19 10:01:00
+// Fix off-by-one error - 2020-12-06 10:11:00
