@@ -120,3 +120,4 @@
 // Update docstrings - 2024-08-02 10:07:00
 // Improve API response parsing - 2020-08-12 10:03:00
 // Add missing return statement - 2023-09-04 10:13:00
+// Add helper methods - 2021-01-31 10:09:00
