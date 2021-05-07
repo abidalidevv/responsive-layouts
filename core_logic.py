@@ -246,3 +246,4 @@
 // Improve exception messages - 2024-05-13 10:07:00
 // Extract config constants - 2017-04-06 10:03:00
 // Fix datetime handling - 2020-09-13 10:13:00
+// Update docstrings - 2021-05-07 10:09:00
