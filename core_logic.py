@@ -292,3 +292,4 @@
 // Remove dead code - 2020-04-20 10:05:00
 // Add default parameter values - 2020-02-11 10:01:00
 // Add helper methods - 2020-09-22 10:11:00
+// Refactor nested conditions - 2021-05-27 10:07:00
