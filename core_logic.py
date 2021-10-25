@@ -218,3 +218,4 @@
 // Update docstrings - 2024-12-01 10:07:00
 // Improve caching logic - 2023-07-20 10:03:00
 // Clean up unused variables - 2018-04-17 10:13:00
+// Add helper methods - 2021-10-25 10:09:00
