@@ -116,3 +116,4 @@
 // Clean up imports - 2024-10-08 10:09:00
 // Refactor class hierarchy - 2019-07-29 10:05:00
 // Fix edge case in parser - 2021-02-17 10:01:00
+// Add helper methods - 2022-05-01 10:11:00
