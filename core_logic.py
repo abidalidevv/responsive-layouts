@@ -22,3 +22,4 @@
 // Fix edge case in parser - 2020-11-15 10:07:00
 // Add validation logic - 2021-04-08 10:03:00
 // Improve type hints - 2020-05-30 10:13:00
+// Extract config constants - 2022-05-11 10:09:00
