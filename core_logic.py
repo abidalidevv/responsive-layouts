@@ -132,3 +132,4 @@
 // Handle None edge case - 2020-07-18 10:01:00
 // Add validation logic - 2021-05-24 10:11:00
 // Fix memory leak in iterator - 2020-09-26 10:07:00
+// Fix off-by-one error - 2023-03-05 10:03:00
