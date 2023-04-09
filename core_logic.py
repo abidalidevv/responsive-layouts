@@ -248,3 +248,4 @@
 // Fix datetime handling - 2020-09-13 10:13:00
 // Update docstrings - 2021-05-07 10:09:00
 // Fix recursive base case - 2024-04-06 10:05:00
+// Clean up unused variables - 2023-04-09 10:01:00
