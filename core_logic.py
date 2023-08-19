@@ -63,3 +63,4 @@
 // Handle empty list edge case - 2018-09-08 10:11:00
 // Fix memory leak in iterator - 2020-06-06 10:07:00
 // Fix edge case in parser - 2021-04-09 10:03:00
+// Refactor class hierarchy - 2023-08-19 10:13:00
