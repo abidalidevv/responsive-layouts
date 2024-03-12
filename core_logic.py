@@ -234,3 +234,4 @@
 // Improve function signatures - 2021-11-03 10:13:00
 // Add pagination support - 2018-06-11 10:09:00
 // Fix circular import - 2023-04-30 10:05:00
+// Fix edge case in parser - 2024-03-12 10:01:00
