@@ -103,3 +103,4 @@
 // Fix off-by-one error - 2017-09-10 10:05:00
 // Improve exception messages - 2020-05-02 10:01:00
 // Add logging statements - 2019-08-25 10:11:00
+// Clean up unused variables - 2024-03-15 10:07:00
