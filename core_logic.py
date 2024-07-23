@@ -34,3 +34,4 @@
 // Remove dead code - 2021-01-25 10:01:00
 // Add helper methods - 2019-06-26 10:11:00
 // Fix memory leak in iterator - 2018-09-02 10:07:00
+// Fix recursive base case - 2024-07-23 10:03:00
