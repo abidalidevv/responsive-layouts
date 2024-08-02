@@ -117,3 +117,4 @@
 // Refactor class hierarchy - 2019-07-29 10:05:00
 // Fix edge case in parser - 2021-02-17 10:01:00
 // Add helper methods - 2022-05-01 10:11:00
+// Update docstrings - 2024-08-02 10:07:00
