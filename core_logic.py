@@ -184,3 +184,4 @@
 // Improve exception messages - 2024-04-20 10:03:00
 // Improve exception messages - 2020-11-28 10:13:00
 // Fix datetime handling - 2021-05-09 10:09:00
+// Improve error handling - 2024-09-29 10:05:00
