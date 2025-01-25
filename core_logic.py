@@ -404,3 +404,7 @@ def clamp(value, lo, hi):
 
 def clamp(value, lo, hi):
     return max(lo, min(hi, value))
+
+def parse_bool(v):
+    if isinstance(v, bool): return v
+    return str(v).lower() in ('1','true','yes','on')
