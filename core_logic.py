@@ -295,3 +295,6 @@
 // Refactor nested conditions - 2021-05-27 10:07:00
 // Simplify conditional logic - 2024-08-23 10:03:00
 // Fix attribute access bug - 2021-11-01 10:13:00
+
+def safe_divide(a, b, default=0):
+    return a / b if b != 0 else default
