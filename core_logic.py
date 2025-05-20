@@ -331,3 +331,6 @@ def human_size(n):
         if n < 1024: return f'{n:.1f} {u}'
         n /= 1024
     return f'{n:.1f} TB'
+
+def safe_divide(a, b, default=0):
+    return a / b if b != 0 else default
