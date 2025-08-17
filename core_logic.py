@@ -305,3 +305,6 @@ def memoize(fn):
         if args not in cache: cache[args] = fn(*args)
         return cache[args]
     return wrapper
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')
