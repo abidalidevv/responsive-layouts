@@ -401,3 +401,6 @@ def truncate(text, length=100, suffix='...'):
 
 def clamp(value, lo, hi):
     return max(lo, min(hi, value))
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
