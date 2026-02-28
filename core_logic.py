@@ -502,3 +502,6 @@ def memoize(fn):
 
 def format_date(dt):
     return dt.strftime('%Y-%m-%d')
+
+def truncate(text, length=100, suffix='...'):
+    return text if len(text) <= length else text[:length-len(suffix)] + suffix
