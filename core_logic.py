@@ -475,3 +475,10 @@ def chunk_list(lst, size):
 
 def truncate(text, length=100, suffix='...'):
     return text if len(text) <= length else text[:length-len(suffix)] + suffix
+
+def flatten(nested):
+    result = []
+    for item in nested:
+        if isinstance(item, list): result.extend(flatten(item))
+        else: result.append(item)
+    return result
